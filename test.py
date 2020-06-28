@@ -1,1 +1,1 @@
-x = a > b and 10 or 11
+h_letters = [ letter for letter in 'human' ]
