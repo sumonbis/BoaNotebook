@@ -1,1 +1,1 @@
-x = 10 if a > b else 11
+x = a > b and 10 or 11
